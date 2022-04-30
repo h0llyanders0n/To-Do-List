@@ -1,0 +1,43 @@
+code {
+  padding: 30px;
+  height: 100vh;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1  {
+  text-align: center;
+}
+h3  {
+  text-align: center;
+}
+.todo-list {
+  background: #e8e8e8;
+  border-radius: 4px;
+  padding: 5px;
+  max-width: 400px;
+}
+
+.todo {
+  background: #e8e1e8;
+  box-shadow: 1px 1px 1px rgba(0,0,0, 0.15);
+  padding: 10px 30px;
+  font-size: 24px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.input{
+  background: #e1e1e1;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  width: 100%;
+  box-sizing: border-box;
+  border: 0;
+  border-radius: 10px;
+  box-shadow: 1px 1px 1px rgba(0,0,0, 0.15);
+  padding: 30px 30px;
+  height: 2.25em;
+  font-size: 20px;
+}

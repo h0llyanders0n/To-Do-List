@@ -1,0 +1,13 @@
+body {
+  margin: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20;
+  background: #e8e8e8;
+  padding: 40px;
+  -webkit-font-smoothing: antialiased;
+}
+
+code {
+  font-family: Georgia, 'Times New Roman', Times, serif
+}
+
